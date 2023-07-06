@@ -1,3 +1,11 @@
+/* *{
+    font-family: ;
+} */
+body{
+    font-family: 'Nunito Sans' !important;
+    /* font: 'Roboto Condensed' !important; */
+    /* font-family: Verdana, Tahoma, sans-serif !important; */
+}
 .button-color{
     background: #01A85A;
 }
